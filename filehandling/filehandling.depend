@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1515338607 source:c:\users\sony\desktop\c++\array\filehandling\main.cpp
+	<iostream>
+	<fstream>
+	<conio.h>
+	<stdio.h>
+
